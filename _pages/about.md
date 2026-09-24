@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mannix Chan | academic repository"
+title: "Mannix Chan's Academic Repository"
 author_profile: true
 redirect_from: 
   - /about/
