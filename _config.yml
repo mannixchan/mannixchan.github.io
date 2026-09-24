@@ -27,12 +27,11 @@ author:
   name             : "Mannix Chan (陳星宏)"
   pronouns         : #  
   bio              : "PhD student @ Dept. of Psychology, HKU"
-  location         : "Hong Kong"
+  location         : #
   employer         : "University of Hong Kong"
   uri              : # URL
-  email            : #
-  email_personal   : "mannixchan@proton.me"
-  email_hku        : "mannix42@connect.hku.hk"
+  email            : "mannixchan@proton.me"
+
 
   # Academic websites
   academia         : # URL
