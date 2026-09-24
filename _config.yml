@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mannix Chan (陳星宏)"
-  pronouns         : "any"  
+  pronouns         : #  
   bio              : "PhD student @ Dept. of Psychology, HKU"
   location         : "Hong Kong"
   employer         : "University of Hong Kong"
