@@ -17,7 +17,7 @@ Research Interests
 
 Education
 ======
-* Ph.D in Psychololgy, University of Hong Kong, 2030 (expected)
+* Ph.D in Psychology, University of Hong Kong, 2030 (expected)
 * BSocSc (major in Psychology), University of Hong Kong, 2023
 
 Work experience
