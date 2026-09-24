@@ -30,7 +30,9 @@ author:
   location         : "Hong Kong"
   employer         : "University of Hong Kong"
   uri              : # URL
-  email            : "mannixchan@proton.me" 
+  email            : #
+  email_personal   : "mannixchan@proton.me"
+  email_hku        : "mannix42@connect.hku.hk"
 
   # Academic websites
   academia         : # URL
