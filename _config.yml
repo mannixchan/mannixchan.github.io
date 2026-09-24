@@ -88,7 +88,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles (1st Author)'
+  collaboration:
+    title: 'Other Journal Articles'
   conferences:
     title: 'Conference Papers'
 
