@@ -24,6 +24,8 @@ Work experience
 ======
 * Sept 2023 - Aug 2026: Research Assistant
   * Child and School Psychology Lab, Dept. of Psychology, HKU
+  * [Jockey Club Keen and Active Kids Project team member](https://www.jckak.org.hk/zh-Hant)
+    * [Training Resource Kit editing team member](https://www.jckak.org.hk/zh-Hant/project-evaluation/training-resource-kit)
 
 Publications
 ======
