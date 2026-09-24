@@ -26,6 +26,7 @@ Work experience
   * Child and School Psychology Lab, Dept. of Psychology, HKU
   * [Jockey Club Keen and Active Kids Project team member](https://www.jckak.org.hk/zh-Hant)
     * [Training Resource Kit editing team member](https://www.jckak.org.hk/zh-Hant/project-evaluation/training-resource-kit)
+  * [Classroom Observation Scale for Autism in Preschool editing team member](https://resources.edcity.hk/zh-hant/detail/2147416437) 
 
 Publications
 ======
