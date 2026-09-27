@@ -18,7 +18,7 @@ Research Interests
 Education
 ======
 * PhD in Psychology, University of Hong Kong, 2030 (expected)
-* BSocSc in Psychology, University of Hong Kong, 2023
+* BSocSc in Psychology, University of Hong Kong, 2023 (1st class honours)
 
 Work experience
 ======
@@ -33,3 +33,8 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Others
+======
+* SCRC and BLNST holder
+* HKPS graduate member
